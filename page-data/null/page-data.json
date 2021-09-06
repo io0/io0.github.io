@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-frontmatter-slug-js",
+    "path": "/null/",
+    "result": {"data":{"markdownRemark":{"html":"<p>I ate too much chocolate.</p>\n<p>I don’t know why I did it. Jonathan and I walked to Kougn Amann, we got a croissant, I wanted a power plug for a place to work, he told me to go to Cafe Neve where there’s a really good cookie. So despite not wanting a cookie, I got a cookie, and ate half of it before realizing I didnt want to eat the cookie, so now I’m left thinking why the heck did I do this.</p>","frontmatter":{"date":"8/31/2021, 1:54:16 PM","slug":null,"title":"8/31/2021, 1:54:16 PM"}}},"pageContext":{"id":"34a10723-1ced-5104-8e1e-9d92a9a3edc2","frontmatter__slug":null,"__params":{"frontmatter__slug":"null"}}},
+    "staticQueryHashes": []}
