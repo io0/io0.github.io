@@ -14,17 +14,18 @@ const formattedDate = (date) => {
 };
 
 const PostLink = ({ post }) => (
-  <div>
-    <Link to={post.frontmatter.slug}>
-      {formattedDate(post.frontmatter.date)}
+  <div className="blog-post">
+    <Link
+      to={post.frontmatter.slug}
+      style={{ textDecoration: "none", paddingBottom: "1em" }}
+    >
+      <div className="post-date">{formattedDate(post.frontmatter.date)}</div>
+      {/* <div className="post-time">{post.frontmatter.date.split(",")[1]}</div> */}
     </Link>
     {/* <div>{post.excerpt}</div> */}
     {/* {post.html} */}
 
-    <div
-      className="blog-post-content"
-      dangerouslySetInnerHTML={{ __html: post.html }}
-    />
+    <div className="preview" dangerouslySetInnerHTML={{ __html: post.html }} />
   </div>
 );
 
