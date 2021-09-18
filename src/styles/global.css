@@ -31,6 +31,7 @@ blockquote {
 }
 blockquote p {
   padding: 0 !important;
+  margin: 10px;
   font-family: EB Garamond !important;
   font-size: 12pt !important;
 }
@@ -102,13 +103,21 @@ blockquote p {
 .blog-post p {
   line-height: 1.6;
   padding-bottom: 1em;
+  position: relative;
+}
+.annotation {
+  position: absolute;
+  left: 560px;
+  line-height: 1.15;
+  font-size: 9pt;
+  width: 150px;
 }
 .preview p {
   line-height: 1.15;
   padding-bottom: 10px;
 }
 .blog-post a {
-  color: #337261;
+  color: #008b66;
   text-decoration: none;
 }
 
