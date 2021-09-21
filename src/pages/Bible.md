@@ -14,6 +14,7 @@ slug: bible
 
 > “With all the time you spend watching TV,” he tells me, “you could have written a novel by now.” It’s hard to disagree with the sentiment — writing a novel is undoubtedly a better use of time than watching TV — but what about the hidden assumption? Such comments imply that time is “fungible” — that time spent watching TV can just as easily be spent writing a novel. And sadly, that’s just not the case.
 4.
+> if we want the rewards of being loved we have to submit to the mortifying ordeal of being known.
 
 > Trying out a bunch of things, having a ton of plates spinning, keeping a lot of balls in the air, being in a new job, a new relationship, a new hobby—these kinds of things will tend to accrue technical debt. Prior to having put in tons and tons of meditation time, there’s sort of just too much going on to easily "integrate" in real time (or in stolen moments, or on long walks, or in meditation), because integration, when needed, takes real time, and sometimes a lot of time.  
 >
@@ -35,6 +36,9 @@ That's what a charter city is.
 > For infovores, text, in contrast to photos or videos or music, is the medium of choice from a velocity standpoint. There is deep satisfaction in quickly decoding the textual information, the scan rate is self-governed on the part of the reader, unlike other mediums which unfold at their own pace (this is especially the case with video, which infovores hate for its low scannability).
 
 > . ``There's no importance whatsoever. I'm just doing it for the fun of it.'' His reaction didn't discourage me; I had made up my mind I was going to enjoy physics and do whatever I liked.
+
+> We delight in fine cuisine, and yet concentrated sugar + fat + salt = irresistible junk food. We execute complex tasks, and yet fine tuned difficulty + intermittent reinforcement + clear feedback = video games that people play until they die.
+
 
 > There was a footpath leading across fields to New Southgate, and I used to go there alone to watch the sunset and contemplate suicide. I did not, however, commit suicide, because I wished to know more of mathematics.
 > When something is "out there" it's hard to make it personal because it's not my ball, it's the ball. It's not my problem, it's the problem.
