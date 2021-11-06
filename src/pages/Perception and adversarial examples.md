@@ -1,14 +1,13 @@
 ---
-slug: perception
 title: Perception and adversarial examples
 date: 11/4/2021, 3:23:22 PM
 ---
+
 # Perception and adversarial images
 
 In the human brain, no less than 1/5th of the visual cortex is dedicated to facial recognition. So long as it has improved survival, we've become more and more sensitive to the curves of the human face.
 
 Compare that to how the face of, say, an elephant appears to us, and you and I can simulate how largely our perceptions are distortions of the objective world. In our world, human faces are fundamentally higher-resolution than anything else.
-
 
 > **The interface theory of perception**: the perceptions of an organism are a user interface between that organism and the objective world
 
@@ -24,4 +23,5 @@ Marley
 11/4/2021, 4:38:00 PM
 
 [Adversarial examples for the OpenAI CLIP in its zero-shot classification regime and their semantic generalization \| Stanislav Fort](https://stanislavfort.github.io/blog/OpenAI_CLIP_adversarial_examples/)
+
 - it genuinely believes that it's seen a frog or a toad.
