@@ -149,4 +149,5 @@ blockquote p {
 .blog-post li {
   line-height: 1.6;
   margin-left: 20px;
+  position: relative;
 }
