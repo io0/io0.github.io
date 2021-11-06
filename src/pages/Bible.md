@@ -1,5 +1,5 @@
 ---
-title: Bible
+title: Quotes
 date: 9/13/2021, 10:38:48 PM
 slug: bible
 ---

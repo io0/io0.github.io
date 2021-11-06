@@ -2,6 +2,7 @@
 title: Boyden
 date: 11/5/2021, 2:47:38 PM
 slug: boyden
+tags: personal
 ---
 
 # Conversation with Ed Boyden

@@ -24,11 +24,15 @@ const IndexPage = ({
   },
 }) => {
   const Posts = edges
-    .filter((edge) => !edge.node.frontmatter.slug) // You can filter your posts based on some criteria
+    .filter(
+      (edge) => !edge.node.frontmatter.slug && !edge.node.frontmatter.tags
+    ) // You can filter your posts based on some criteria
     .map((edge) => <PostLink key={edge.node.id} post={edge.node} />);
 
   const NamedPosts = edges
-    .filter((edge) => !!edge.node.frontmatter.slug) // You can filter your posts based on some criteria
+    .filter(
+      (edge) => !!edge.node.frontmatter.slug && !edge.node.frontmatter.tags
+    ) // You can filter your posts based on some criteria
     .map((edge) => <TitleLink key={edge.node.id} post={edge.node} />);
 
   return (
@@ -53,6 +57,7 @@ export const pageQuery = graphql`
             date
             slug
             title
+            tags
           }
         }
       }
