@@ -9,8 +9,34 @@ slug: essay
 <!-- My mind was a lotus leaf, unattached to
 The qualia of doing research was what I imagine lotus leafs to feel, adrift in water. -->
 
-I changed schools once a year for six years. From China to Montreal and Montreal to Toronto, I learned people at the same time as my parents.
+I changed schools once a year for six years. From China to Montreal and Montreal to Toronto, I learned people at the same time as my parents. Take a child who has yet to develop a single social script to a context that requires a lot of them in a short amount of time and the experience of humanity becomes surreal.
 
+learn French; learn English; be good at math, but not too good because the last time you spoke in class your classmate started crying. Playing with other children gave me an elevated heart rate, put me into fight-or-flight mode.
+
+It needs to touch humans, not only that but it needs to touch the white-hot core of what makes humans, human.
+
+Deep seam of happiness
+
+
+preverbal beauty, Lunarstar, 
+
+<!-- Place a kid who doesn't know a single social script on this path and you get a stunning experience of humanity. -->
+
+<!-- .  the experience of life becomes surreal-->
+
+
+<!-- and the experience of humanity becomes surreal -->
+ I remember darting my eyes around, watching for what to do, trying to guess what I was suppposed to say next.
+Elevated heart rate, fight or flight 
+
+Take 
+vary their surroundings wildly
+experience of humanity
+
+Internal fury, exceptionalism, "chosen-one syndrome"
+
+
+Constant feeling of being dumb
 There was always a script
 
 <!-- while also learning the ordinary hard tasks of speaking and tying your shoelaces. -->
