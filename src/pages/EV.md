@@ -9,9 +9,18 @@ slug: essay
 <!-- My mind was a lotus leaf, unattached to
 The qualia of doing research was what I imagine lotus leafs to feel, adrift in water. -->
 
-I changed schools once a year for six years. My parents seemed intent on mowing through the crowd, people who were at first Chinese, then Quebecois, then Canadian. Friends were hard to make and I spent a lot of time alone.
+I changed schools once a year for six years. From China to Montreal and Montreal to Toronto, I learned people at the same time as my parents.
 
-In grade two, the kids would write short stories. Curt, short sentences about a boy named Sam who walked to the store. Then, in monk-like handwriting, a tale about a bird named Springshine with feathers that could revive the forest. 
+There was always a script
+
+<!-- while also learning the ordinary hard tasks of speaking and tying your shoelaces. -->
+
+
+My parents seemed intent on mowing through the crowd, people who were at first Chinese, then Quebecois, then Canadian. Friends were short-lived and I lived on a sinusoid of anxiety.
+darting my eyes, 
+ and I spent a lot of time alone.
+
+In grade two, the kids would write short stories. Curt, short sentences about a boy named Sam who walked to the store. Then, in monk-like handwriting, a story about a bird named Springshine with feathers that could revive the forest. 
 
 I was fascinated by the color chartreuse. 
 
