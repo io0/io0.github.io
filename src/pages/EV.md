@@ -9,9 +9,27 @@ slug: essay
 <!-- My mind was a lotus leaf, unattached to
 The qualia of doing research was what I imagine lotus leafs to feel, adrift in water. -->
 
-I changed schools once a year for six years. From China to Montreal and Montreal to Toronto, I learned people at the same time as my parents. Take a child who has yet to develop a single social script to a context that requires a lot of them in a short amount of time and the experience of humanity becomes surreal.
+<!-- Being a five-year-old who hadn't learned a single social script yet in a context that required a lot of them in a short amount of time made the experience of humanity somewhat surreal.
 
-learn French; learn English; be good at math, but not too good because the last time you spoke in class your classmate started crying. Playing with other children gave me an elevated heart rate, put me into fight-or-flight mode.
+Take a kid who has yet to develop a single social script to a context that requires a lot of them in a short amount of time and the experience of humanity becomes surreal. 
+Five-year-olds have yet to learn a single social script. Place them in a context that requires a lot of them in a short amount of time and the experience of humanity becomes surreal.
+
+I was a five-year-old who hadn't learned a single social script. Being in a context that required a lot of them in a short amount of time made the experience of humanity somewhat surreal.
+
+For a child without a single social script to learn the way of these Western worlds on their own, the experience of humanity becomes surreal.
+
+I was five and had yet to know a single social script; being required to learn a lot of them in a short amount of time made the experience of humanity surreal.
+ -->
+
+I changed schools once a year for six years. From China to Montreal and Montreal to Toronto, I followed along while my parents figured out Western society for themselves. I had yet to learn a single social script when I was forced to learn many at once; the experience of humanity quickly became surreal.
+
+I had to know when to laugh and when to stop; learn French — now learn English; learn what pizza is because everyone seems to know it and react to it, and if you don't then you must be dumb or strange. My heart rate spiked, I went on overdrive thinking about what to say. Childhood created an intense internal life. 
+
+
+In grade two, the kids would write short stories. Curt, short sentences about a boy named Sam who walked to the store. Then, in monk-like handwriting, a story about a bird named Springshine with feathers that could revive the forest. 
+
+I was fascinated by the color chartreuse. 
+
 
 It needs to touch humans, not only that but it needs to touch the white-hot core of what makes humans, human.
 
@@ -46,9 +64,6 @@ My parents seemed intent on mowing through the crowd, people who were at first C
 darting my eyes, 
  and I spent a lot of time alone.
 
-In grade two, the kids would write short stories. Curt, short sentences about a boy named Sam who walked to the store. Then, in monk-like handwriting, a story about a bird named Springshine with feathers that could revive the forest. 
-
-I was fascinated by the color chartreuse. 
 
 Childhood was a cruel and unusual punishment
 
