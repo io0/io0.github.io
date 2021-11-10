@@ -24,17 +24,25 @@ suddenly you get a stunning experience of humanity.
 
 I changed schools once a year for six years. From China to Montreal and Montreal to Toronto, I followed along while my parents figured out Western society for themselves. I had yet to learn a single social script when I was forced to learn many at once; the experience of living quickly became surreal.
 
-Know when to laugh and when to stop; learn French — now learn English; learn what pizza is because everyone seems to know it and react to it, and if you don't then you must be dumb or strange. My heart rate spiked, my mind went on fight-or-flight, playing with children had the subjective experience of going through tiny little witch trials.
+Know when to laugh and when to stop; learn French — now learn English; learn what pizza is because everyone seems to know it and react to it, and if you don't then you must be dumb or strange. My heart rate spiked, I steeled my nerves, playing with children had the subjective experience of going through tiny little witch trials.
 
 Childhood created an immense internal life. In grade two we had to write short stories. There were twenty or so stories about a boy named Sam who lost his ball. Then, in monk-like handwriting, a story about a bird named Springshine with feathers that could revive the forest. 
 
-I was fascinated by the color chartreuse. Bits and pieces of text about politics, old things, dragons, opal rocks, the russian dynasty, beech trees, the ribbons in Tang dynasty paintings -- how did they float? -- lyrebirds, medieval minstrels floated through my everyday imagination. Textures I could feel in my mind but could never find in others. 
+I was fascinated by the color chartreuse. Bits and pieces of text about politics, old things, dragons, opal rocks, the Russian dynasties, beech trees, the ribbons in Tang dynasty paintings -- how did they float? -- lyrebirds, medieval minstrels floated through my everyday imagination. Textures I could feel in my mind but could never find in others. 
 
+A single Word document that grew to 102k words by the time I was 12 years old. 
 My internal world seemed the most beautiful thing, being so far disconnected from people. 
 
+my internal vocabulary consisted of elements of fantasy books. 
+dragon-fairy lenses. 
+
+Passion infected everything I do
+
 #### Biology Olympiad
+
 #### Computer Science
 
+#### School 2.0
 
 It needs to touch humans, not only that but it needs to touch the white-hot core of what makes humans, human.
 
@@ -47,6 +55,7 @@ preverbal beauty, Lunarstar,
 
  I remember darting my eyes around, watching for what to do, trying to guess what I was suppposed to say next.
 Elevated heart rate, fight or flight 
+
 
 vary their surroundings wildly
 experience of humanity
