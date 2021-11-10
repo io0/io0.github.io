@@ -19,16 +19,21 @@ I was a five-year-old who hadn't learned a single social script. Being in a cont
 For a child without a single social script to learn the way of these Western worlds on their own, the experience of humanity becomes surreal.
 
 I was five and had yet to know a single social script; being required to learn a lot of them in a short amount of time made the experience of humanity surreal.
+suddenly you get a stunning experience of humanity.
  -->
 
-I changed schools once a year for six years. From China to Montreal and Montreal to Toronto, I followed along while my parents figured out Western society for themselves. I had yet to learn a single social script when I was forced to learn many at once; the experience of humanity quickly became surreal.
+I changed schools once a year for six years. From China to Montreal and Montreal to Toronto, I followed along while my parents figured out Western society for themselves. I had yet to learn a single social script when I was forced to learn many at once; the experience of living quickly became surreal.
 
-I had to know when to laugh and when to stop; learn French — now learn English; learn what pizza is because everyone seems to know it and react to it, and if you don't then you must be dumb or strange. My heart rate spiked, I went on overdrive thinking about what to say. Childhood created an intense internal life. 
+Know when to laugh and when to stop; learn French — now learn English; learn what pizza is because everyone seems to know it and react to it, and if you don't then you must be dumb or strange. My heart rate spiked, my mind went on fight-or-flight, playing with children had the subjective experience of going through tiny little witch trials.
 
+Childhood created an immense internal life. In grade two we had to write short stories. There were twenty or so stories about a boy named Sam who lost his ball. Then, in monk-like handwriting, a story about a bird named Springshine with feathers that could revive the forest. 
 
-In grade two, the kids would write short stories. Curt, short sentences about a boy named Sam who walked to the store. Then, in monk-like handwriting, a story about a bird named Springshine with feathers that could revive the forest. 
+I was fascinated by the color chartreuse. Bits and pieces of text about politics, old things, dragons, opal rocks, the russian dynasty, beech trees, the ribbons in Tang dynasty paintings -- how did they float? -- lyrebirds, medieval minstrels floated through my everyday imagination. Textures I could feel in my mind but could never find in others. 
 
-I was fascinated by the color chartreuse. 
+My internal world seemed the most beautiful thing, being so far disconnected from people. 
+
+#### Biology Olympiad
+#### Computer Science
 
 
 It needs to touch humans, not only that but it needs to touch the white-hot core of what makes humans, human.
@@ -40,32 +45,15 @@ preverbal beauty, Lunarstar,
 
 <!-- Place a kid who doesn't know a single social script on this path and you get a stunning experience of humanity. -->
 
-<!-- .  the experience of life becomes surreal-->
-
-
-<!-- and the experience of humanity becomes surreal -->
  I remember darting my eyes around, watching for what to do, trying to guess what I was suppposed to say next.
 Elevated heart rate, fight or flight 
 
-Take 
 vary their surroundings wildly
 experience of humanity
 
 Internal fury, exceptionalism, "chosen-one syndrome"
 
 
-Constant feeling of being dumb
-There was always a script
-
-<!-- while also learning the ordinary hard tasks of speaking and tying your shoelaces. -->
-
-
-My parents seemed intent on mowing through the crowd, people who were at first Chinese, then Quebecois, then Canadian. Friends were short-lived and I lived on a sinusoid of anxiety.
-darting my eyes, 
- and I spent a lot of time alone.
-
-
-Childhood was a cruel and unusual punishment
 
 <!-- My Grand Imagination -->
 A mind that had a different texture
