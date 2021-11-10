@@ -20,18 +20,22 @@ For a child without a single social script to learn the way of these Western wor
 
 I was five and had yet to know a single social script; being required to learn a lot of them in a short amount of time made the experience of humanity surreal.
 suddenly you get a stunning experience of humanity.
+the experience of living quickly became surreal
+quite suddenly I got a stunning experience of humanity.
  -->
 
-I changed schools once a year for six years. From China to Montreal and Montreal to Toronto, I followed along while my parents figured out Western society for themselves. I had yet to learn a single social script when I was forced to learn many at once; the experience of living quickly became surreal.
+I changed schools once a year for six years. From China to Montreal and Montreal to Toronto, I followed along while my parents figured out Western society for themselves. I had yet to learn a single social script when I was forced to learn many at once; my experience of humanity became quite stunning.
 
-Know when to laugh and when to stop; learn French — now learn English; learn what pizza is because everyone seems to know it and react to it, and if you don't then you must be dumb or strange. My heart rate spiked, I steeled my nerves, playing with children had the subjective experience of going through tiny little witch trials.
+Know when to laugh and when to stop; learn French — now learn English; learn what pizza is because everyone seems to know it and if you don't then you must be dumb or strange. My heart rate spiked, I girded my loins. I was always in anticipation of these tiny little witch trials.
 
-Childhood created an immense internal life. In grade two we had to write short stories. There were twenty or so stories about a boy named Sam who lost his ball. Then, in monk-like handwriting, a story about a bird named Springshine with feathers that could revive the forest. 
+Childhood created an immense inner life. One time in grade two we had to write short stories. There were twenty or so stories about a boy named Sam looking for his puppy. Mine, produced in monk-like handwriting, was about a bird named Springshine who flew around the world to change the seasons. 
 
-I was fascinated by the color chartreuse. Bits and pieces of text about politics, old things, dragons, opal rocks, the Russian dynasties, beech trees, the ribbons in Tang dynasty paintings -- how did they float? -- lyrebirds, medieval minstrels floated through my everyday imagination. Textures I could feel in my mind but could never find in others. 
+I was fascinated by the color chartreuse. I hoarded bits and pieces of text about politics, old things, churches, dragons, the [Monkey King](https://en.wikipedia.org/wiki/Monkey_King), the gold rush. I didn't know what they really were, but had a preverbal sense that these things were fantastic. 
+<!-- Textures I could feel in my mind but could never find in others.  -->
 
-A single Word document that grew to 102k words by the time I was 12 years old. 
-My internal world seemed the most beautiful thing, being so far disconnected from people. 
+I truly loved the textures I could feel in my mind but could never find in others. I wrote short stories in a single Word document that grew to 102k words by the time I was 12 years old. 
+
+I discovered science a little less organically. A teacher in high school told me I was good, and 
 
 my internal vocabulary consisted of elements of fantasy books. 
 dragon-fairy lenses. 
@@ -51,9 +55,9 @@ Deep seam of happiness
 
 preverbal beauty, Lunarstar, 
 
-<!-- Place a kid who doesn't know a single social script on this path and you get a stunning experience of humanity. -->
+<!-- Place a kid who doesn't know a single social script on this path and you get a stunning experience of humanity. 
+ I remember darting my eyes around, watching for what to do, trying to guess what I was suppposed to say next.-->
 
- I remember darting my eyes around, watching for what to do, trying to guess what I was suppposed to say next.
 Elevated heart rate, fight or flight 
 
 
