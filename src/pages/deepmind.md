@@ -5,12 +5,11 @@ slug: deepmind
 ---
 # DeepMind
 
-## The story of how Demis got his first investment in DeepMind
-Context:
+## How Demis schemed to start DeepMind
+From [Episode 8: Demis Hassabis - The interview \| DeepMind](https://deepmind.com/blog/article/podcast-episode-8-demis-hassabis-interview)
 - This was around 2010, no one was investing in AI
 - There was no clear product and the vision sounded like blue sky research
-- Most investors would see it as something you did in academia for ten years. Demis needed it to be done faster
-[Episode 8: Demis Hassabis - The interview \| DeepMind](https://deepmind.com/blog/article/podcast-episode-8-demis-hassabis-interview)
+- Most investors thought it was something you did in academia for ten years. Demis needed it to be done faster
 
 ##### Transcript
 
