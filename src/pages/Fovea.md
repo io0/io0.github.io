@@ -4,7 +4,7 @@ date: 11/15/2021, 1:18:44 PM
 ---
 How would it "feel" to not have a fovea?
 
-Depending on where an object is located in your visual field, its clarity may differ by more than a magnitude. The difference is so great that trying to observe things outside your fovea is akin to blindness.
+Depending on where an object is located in your visual field, its clarity may differ by over an order of magnitude. The difference is so great that trying to observe things outside your fovea is akin to blindness.
 
 You can experience what a uniform visual field feels like by wandering around in the dark. A different set of receptors are active for low light conditions, and unlike the cones these receptors are evenly distributed throughout the retina. 
 
