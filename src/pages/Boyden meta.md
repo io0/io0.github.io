@@ -11,6 +11,22 @@ tags: personal
 
 11/5/2021, 2:47:38 PM
 
+## Teaching people to do science
+
+> You can teach problem-solving
+
+Ed Boyden has taught for many years, only with this recent course he believes he's found a way to teach problem-solving. The students presented midterm projects recently and he felt **every project was worth pursuing.**
+
+- The course teaches students to be skeptical in the right way
+- There are exercises at the beginning
+  - The students go and interview 6 people and relate what they learned
+  - Teach them how to read papers (there's a way)
+  - Emphasis on how to figure out the truth
+- It takes prep time (4-6 sessions) to get people to think about the real problem versus "fake problems"
+  - He asks them things like, "what is the problem?"
+  - For example, what is a synapse? If you keep asking, you eventually get to a place where no one knows
+- Know where knowledge ends and assumptions begin
+
 ## General heuristics for research
 
 > There are only so many chemical and physical laws. 
@@ -27,12 +43,12 @@ There's usually a partial success in a failure. In our lab, the biggest failures
 - Write the outline of a paper before the experiment.
   - this forces you to think about the **analysis** and not just what you're measuring
 - Make use of partial successes
-  - if all the neurons survive but all the glia die, what can you say about vitrification?
+  - if all the neurons survive but all the glia die, what can you say about your treatment?
     - what metabolic processes are unique to neurons?
-  - if grey matter responds differently compared to white matter
-    - white matter is composed of more lipids, grey matter has more water
 - Seek general principles
-  - Alzheimer's research is a counterexample: people are using 3 different molecular models of Alzheimer's
+  - Suppose your treatment fails in 8 ways in the hamster, while failing in the pig in 9 other ways. From this, you can't make general statements. If, however, the pig and hamster fail in the same ways, you can claim underlying principles
+    - The results of individual experiments are not as important as the _comparison_ of what happens in each organism
+  - Consider Alzheimer's research: people are using 3 different molecular models of Alzheimer's
     - you need to find effects in all 3 models to claim general principles
     - makes me want to do a company that runs human trials for Alzheimer's
 
@@ -63,32 +79,15 @@ Do a lot of experiments, some of which are quite dumb.
 - Dependency graph
   - use it to sequence experiments, but be aware that your initial plan is usually scrapped
 
+## Recruiting
+You want people who will go wherever the science needs them to go. For example, if you have someone in physics and the project takes them into chemistry, they should be willing to learn chemistry.
 
-#### Measurements
+One of our tricks is to take people in an intuitive science (biology, material science, chemistry) and put them in a different field. In contrast you have people in computer science and electrical engineering, which are more quantitative sciences.
 
-> What are the metrics? The pig will probably not just wake up and be fine after rewarming
+When interviewing, we like to ask:
+- What's the most creative thing that you've done?
+- What is the fundamental definition of your problem? Can you go deeper?
 
-What do you measure first?
-
-- EEG, RNAseq and proteins
-  - RNA is more accessible than proteome (can be amplified while protein can't)
-  - are there even antibodies for pig proteins?
-- A question to ask is, will there be an increase in stress proteins, heat shock proteins?
-  - are there second-order, possibly irreversible effects?
-
-
-#### Use three model organisms
-
-- Hamster, mouse and pig
-- The results of individual experiments are not as important as the _comparison_ of what happens in each organism
-- **Double dissociation** is desired in experiment design - suppose freezing the hamster fails in 8 ways, while freezing the pig fails in 9 other ways. From this, you can't make general statements about vitrification
-  - if, however, the pig and hamster fail in the same ways, you can claim underlying principles
-- Why the pig?
-  - pig organs are biologically harder
-  - big vessels
-- Why the hamster?
-
-  - replicate previous research
-  - hamster might be more amenable to freezing than mice
+Finally, always ask for reference letters. The only problematic relationship we had in the lab (over many years) could have been avoided if we had asked for a reference letter.
 
 
