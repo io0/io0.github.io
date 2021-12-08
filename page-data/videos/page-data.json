@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-frontmatter-slug-js",
+    "path": "/videos/",
+    "result": {"data":{"markdownRemark":{"html":"<p>Actual images of experiments, physical processes, convey a truth about neuroscience that words don't.</p>\n<iframe width=\"427\" height=\"240\" src=\"https://www.youtube.com/embed/RJiAvkHNGWw?start=3433\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n<p>This segment shows the predictions of where a mouse is according to the recordings of his neurons. The arrows are almost exactly overlaid with his position:</p>","frontmatter":{"date":"11/12/2021, 4:07:55 PM","slug":"videos","title":"Neuroscience videos","tags":null}}},"pageContext":{"id":"17e6edfc-379b-5278-86c2-362d0ed9d847","frontmatter__slug":"videos","__params":{"frontmatter__slug":"videos"}}},
+    "staticQueryHashes": []}
