@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-frontmatter-slug-js",
+    "path": "/electrostatic/",
+    "result": {"data":{"markdownRemark":{"html":"<p>The electric field levels off with 1/r^2.</p>\n<p>Is this faster or slower than exponential decay?</p>\n<p>How does this account for life?</p>","frontmatter":{"date":"2021/12/27, 12:47:00 PM","slug":"electrostatic","title":"","tags":null}}},"pageContext":{"id":"647c3edd-d57b-5920-85e2-a2495afbb3c0","frontmatter__slug":"electrostatic","__params":{"frontmatter__slug":"electrostatic"}}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-frontmatter-slug-js",
+    "path": "/magnetism/",
+    "result": {"data":{"markdownRemark":{"html":"<p>What is magnetism?</p>\n<p>A group of forces which \"add\" to each other in the same way but \"add\" to other forces in a different way.</p>\n<p>Few materials have \"intrinsic\" magnetism that can be felt in a macroscopic setting. These are the metal poster children: iron, nickel.</p>\n<p>You can destroy ferromagnetism by striking it with a hammer!</p>\n<p>The idea of putting charges closer together or father apart to vary the force felt at a distance — changing the \"zoom\" level of the system.</p>\n<p>Why does the field \"fringe out\" at the edge of a uniform plate?</p>","frontmatter":{"date":"11/5/2021, 2:47:38 PM","slug":"magnetism","title":"","tags":null}}},"pageContext":{"id":"a429bc70-04e3-5120-8f83-ba4fc7db05e9","frontmatter__slug":"magnetism","__params":{"frontmatter__slug":"magnetism"}}},
+    "staticQueryHashes": []}
