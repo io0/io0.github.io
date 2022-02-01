@@ -10,7 +10,9 @@ module.exports = {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "pages",
-        path: "./src/pages/",
+        path: "./src/markdown/",
+        ignore: [`**/\.*`, `**/.obsidian/**`, `./src/pages/.obsidian/*`, `**/.obsidian/*`,
+        `**/`, `**/.obsidian`, `**/.obsidian`, "main.js", "./src/pages/.obsidian/plugins/nldates-obsidian/main.js"], // ignore files starting with a dot
       },
       __key: "pages",
     },
