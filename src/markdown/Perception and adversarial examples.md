@@ -3,7 +3,7 @@ title: Perception and adversarial examples
 date: 11/4/2021, 3:23:22 PM
 ---
 
-# Perception and adversarial images
+<!-- # Perception and adversarial images -->
 
 In the human brain, no less than 1/5th of the visual cortex is dedicated to facial recognition. So long as it has improved survival, we've become more and more sensitive to the curves of the human face.
 

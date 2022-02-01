@@ -43,7 +43,7 @@ Played my role as a
 hard-won performance, 
 putting on performances at school, 
 The hours spent inside a Word processor were hours playing with textures in my mind. Spending time in a Word processor was playing with textures -->
-So it went; every day I went to school and put on a good performance, then rushed home to write. I wrote in a single Word document that grew to 110,000 words long. To write was to play with textures in my mind. I didn't love them because they were inexplicable, nor because I couldn't seem to find them in others, but because they were the most fantastic, beaming elements of my reality.
+So it went; every day I went to school and put on a good performance, then rushed home to write. I wrote in a single Word document that grew to 110,000 words long. To write was to play with mind-textures. I didn't love them because they were inexplicable, nor because I couldn't seem to find them in others, but because they were the most fantastic, beaming elements of my reality.
 <!-- Search space
 Web Textures I could feel in my mind but could never find in others.  -->
 

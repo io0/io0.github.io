@@ -1,6 +1,7 @@
 ---
 title: List of everything
 date: 12/2/2021, 8:38:17 PM
+slug: everything
 ---
 # List of everything
 11/16/2021, 1:12:40 PM

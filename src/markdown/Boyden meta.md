@@ -1,7 +1,7 @@
 ---
 title: Boyden
 date: 11/5/2021, 2:47:38 PM
-slug: meta-boyden
+slug: boyden-meeting-11-05-2021
 tags: personal
 ---
 
@@ -15,7 +15,7 @@ tags: personal
 
 > You can teach problem-solving
 
-Ed Boyden has taught for many years, only with this recent course he believes he's found a way to teach problem-solving. The students presented midterm projects recently and he felt **every project was worth pursuing.**
+Ed teaches Principles of Neuroengineering [(MAS.881J)](https://cbmm.mit.edu/education/courses/principles-neuroengineering) to grad students at MIT. After many years, the most recent edition of the course has nailed how to teach problem-solving. The students presented midterm projects recently and **every project was worth pursuing**.
 
 - The course teaches students to be skeptical in the right way
 - There are exercises at the beginning
